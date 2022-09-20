@@ -407,10 +407,10 @@
                             <div class="menubbcode"><strong>Download Ngọc Rồng Online</strong>
                                 <br>
                                 <a class="btn btn-success btn-sm" style="border-radius: 10px;" href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] CuiBapVH.apk">
-                                    <i class="fa fa-cloud-download"></i> <b>[NRO] Andoid SuperMOD APK</b>
+                                    <i class="fa fa-cloud-download">https://www.mediafire.com/file/rvm5gwu1fpnzd7v/DragonBall.apk/file</i> <b>[NRO] Andoid SuperMOD APK</b>
                                 </a>
                                 <br>
-                                <a href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] CuiBapVH.apk"><code>Bấm vào đây nếu không tải được.</code></a>
+                                <a href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] CuiBapVH.apk">https://www.mediafire.com/file/rvm5gwu1fpnzd7v/DragonBall.apk/file<code>Bấm vào đây nếu không tải được.</code></a>
                                 <br>
                                 <br>
                                 <a class="btn btn-success btn-sm" onclick="ShowDataThanhCong()" style="border-radius: 10px;"><i class="fa fa-cloud-download"></i> 
@@ -430,16 +430,16 @@
                             <div class="menubbcode"><strong>Download Ngọc Rồng Blue, Green [Android]</strong>
                                 <br>
  <a class="btn btn-success btn-sm" style="border-radius: 10px;" href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] Blue & Green.apk">
-                                    <i class="fa fa-cloud-download"></i>
+                                    <i class="fa fa-cloud-download">https://www.mediafire.com/file/akgrhl66a4yt56d/NroBlue.Com.apk/file</i>
                                     <b>[NRO] Blue && Green</b>
                                 </a>
                                 <br>
- <a href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] Blue & Green.apk "><code>Bấm đây nếu không tải được.</code>
+ <a href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO] Blue & Green.apk ">https://www.mediafire.com/file/akgrhl66a4yt56d/NroBlue.Com.apk/file<code>Bấm đây nếu không tải được.</code>
                                 </a>
                                 <br>
                                 <br>
  <a class="btn btn-success btn-sm" style="border-radius: 10px;" href="https://raw.githubusercontent.com/DragonBallOnline/ProjectInstall/main/[NRO]Blue & Green Update.apk">
-                                    <i class="fa fa-cloud-download"></i>
+                                    <i class="fa fa-cloud-download">https://www.mediafire.com/file/akgrhl66a4yt56d/NroBlue.Com.apk/file</i>
                                     <b>[NRO] Blue && Green Update New</b>
                                 </a>
                                 <br> Phiên Bản Update Thêm Hào Quang Susano
@@ -454,11 +454,11 @@
                             <div class="text-center">
                                 <strong>
                      
-<a href="https://www.youtube.com/channel/UChzRsD5aWdcGt5Q5-0MD7gA">
+<a href="https://www.youtube.com/channel/UCpqdCaoOMG_y0NPKY1m1L1w">
 <button class="">Subscribe to Youtube channel</button>
                 </a>
 <br>
-<a href="https://www.youtube.com/channel/UChzRsD5aWdcGt5Q5-0MD7gA" target="_blank">
+<a href="https://www.youtube.com/channel/UCpqdCaoOMG_y0NPKY1m1L1w" target="_blank">
 <i class="fa fa-youtube-play" style="font-size:48px;color:red"></i>
     </a>
     </strong>
